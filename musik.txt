@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 metal
 pop
+=======
+thrash metal
+>>>>>>> 64ae738 (metal 2)

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,8 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-=======
+
 *thing.dll
 
 *name.txt
->>>>>>> ae4e3e7 (Babbys fifth commit)
